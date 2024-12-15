@@ -11,7 +11,7 @@ class FileUploader:
     """
     def __init__(self, upload_path: str = "uploads"):
         """
-        Initialise le gestionnaire d'upload de fichiers
+        Initialise le gestionnaire d'upload de fichiers sur Streamlit
         
         Args:
             upload_path (str): Chemin où les fichiers seront sauvegardés
